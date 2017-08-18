@@ -1,2 +1,2 @@
 # DevOps
-Repositório para a matéria de DevOps
+Repositório para a disciplina de DevOps
